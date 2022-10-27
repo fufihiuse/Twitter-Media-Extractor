@@ -1,0 +1,27 @@
+/* body{
+    display:flex;
+    flex-direction: column;
+    max-width: 60vw;
+    max-height: 80vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button{
+    max-width: 20vw;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+.rows{
+    flex-direction: column;
+}
+
+img{
+    max-height: 60vh;
+}
+
+video{
+    max-height: 75vh;
+}
+
